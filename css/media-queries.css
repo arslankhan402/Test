@@ -1,0 +1,16 @@
+@media (max-width: 800px) {
+.hide-button {
+    display: block !important;
+}
+
+.display-button {
+    display: none !important;
+}
+}
+
+@media (max-width: 576px) {
+    .mobile-section {
+        align-items: center;
+    }
+}
+

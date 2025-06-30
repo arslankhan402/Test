@@ -1,0 +1,306 @@
+section {
+    padding: 60px 30px;
+}
+
+
+.text-primary { color: #0D83FD !important;}
+.bg-primary { background-color:#0D83FD !important ;}
+.btn-primary {background: #0D83FD !important; color: white !important; border:none !important;}
+
+.header {
+    min-height: 100vh;
+    background: linear-gradient(145deg,#F3F9FF 45%, rgba(255, 255, 255, 1) 20%);
+}
+
+.nav-link.active {
+    color: #0D83FD !important;
+}
+
+.nav-link {
+    color: black !important;
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    color: #0D83FD !important;
+}
+
+.col-lg-6 span {
+    color: #0D83FD !important;
+}
+
+.container-1 {
+   height: 190px;
+}
+
+.hero section .container-lg .col-lg-3 .row  i{
+    font-size: 20px;
+    background-color: #0D83FD;
+}
+
+/* .container-card {
+    height: 100px;
+    width: 20px;
+} */
+
+
+.col-lg-6 li {
+   list-style-type: none;
+}
+
+.top-heading {  text-align: center; margin-top: 50px; }
+    .top-heading small {  text-transform: lowercase; font-family: arial, sans-serif; font-weight: small; font-size: 15px; color: #2c2c2c;}
+    .top-heading h2 {  font-family: arial, sans-serif; font-weight: bold; font-size: 28px; color: #2D465E; padding-top: 10px;}
+
+ .col-lg-7 li {
+   list-style-type: none;
+}
+
+.four-box .box {
+    
+    
+    padding:25px;
+}
+
+.four-box .box i {
+    font-size: 40px;
+}
+
+.four-box h4 {
+    color: #333333;
+}
+
+.four-box p {
+    color: #4b4b4b;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.box:nth-child(1) {
+  background-color: #FFF3E2;
+}
+
+.box:nth-child(2) {
+  background-color: #DEEDFD;
+}
+
+.box:nth-child(3) {
+  background-color: #DEEDFD;
+}
+
+.box:nth-child(4) {
+  background-color: #FDEDED;
+}
+
+.icn-1:nth-child(1) i {
+  color: #EDB86E;
+}
+
+.icn-2:nth-child(2) i {
+  color:   #20A5F8;
+}
+
+.icn:nth-child(3) i {
+  color: #F28484;
+}
+
+.icn:nth-child(4) i {
+  color: #48C88A;
+}
+
+
+
+.call {
+    text-align: center;
+
+
+}
+
+.call .display-1 {
+    font-size: 55px;
+
+}
+
+
+
+
+
+.logo .col-lg-2 {
+     margin-top: 30px;
+}
+
+.testimonial {
+    background-color: #F3F9FF;
+}
+
+.testimonial .test {
+    
+    
+    padding: 20px;
+}
+
+.testimonial .test i {
+    color: #FFC107;
+}
+
+.client .col-lg-3 h1 {
+    color: #2D465E;
+    font-weight: bold;
+}
+
+.client .col-lg-3 p {
+    color: #a7a7a7;
+}
+
+.rectangle-1 {
+    height: 3px;
+    width: 10%;
+
+
+}
+
+.services {
+    background-color: #F3F9FF;
+}
+
+
+.services .service {
+    padding: 28px;
+    
+}
+
+.services .service p {
+    font-size: 14px;
+    color: #6b6b6b;
+}
+
+.service .one i {
+    background-color: #ECF5FF;
+    font-size: 24px ;
+    color: #0D6EFD;
+    width: 55px !important;
+    height: 55px !important;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.services .button {
+    background: none;
+    border: none;
+}
+
+
+
+.pricing {
+    background-color: #F3F9FF;
+}
+
+.pricing .col-lg-6 {
+    margin: 10px;
+    width: 30%;
+    height: 550px;
+}
+
+.pricing li {
+    list-style-type: none;
+}
+
+
+.btn {
+    padding: 5px 40px !important;
+}
+
+.question {
+     background-color: #F3F9FF;
+}
+
+
+
+
+.contact {
+    background-color: #F3F9FF;
+}
+
+.rectangle {
+    height: 3px;
+    width: 4%;
+
+}
+
+
+
+.footer .col-lg-2 li {
+    list-style-type: none;
+    color: #666666;
+    font-size: 14px;
+
+}
+
+.footer .col-lg-2 p {
+    font-size: 14px;
+}
+
+.footer .col-lg-3 li {
+    list-style-type: none;
+    color: #666666;
+    font-size: 14px;
+
+}
+
+.div-line {
+    background-color: #dedede;
+    width: 1px;
+    height: 1px;
+
+}
+
+.footer  li:hover{
+    color: #0D6EFD;
+    cursor: pointer;
+
+}
+
+.testimonial img {
+    width: 80px !important;
+    height: 80px !important;
+}
+
+.mobile .laptop i {
+    background-color: #ECF5FF;
+    width: 50px !important;
+    height: 50px !important;
+    display: flex;
+    align-items: center;
+    border-radius: 200px;
+    justify-content: center;
+}
+
+
+
+.mobile .col-lg-4 p {
+    font-size: 14px;
+    color: #898989;
+}
+
+
+
+.contact .col-lg-4 i {
+    background-color: #449bf8;
+    width: 50px !important;
+    height: 50px !important;
+    display: flex;
+    align-items: center;
+    border-radius: 200px;
+    justify-content: center;
+}
+
+.hide-button {
+    display: none !important;
+}
+
+
+
+
